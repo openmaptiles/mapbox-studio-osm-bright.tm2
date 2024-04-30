@@ -1,5 +1,5 @@
 Copyright (c) 2013, Mapbox  
-Modifications copyright (c) 2016, KlokanTech.com & OpenMapTiles contributors.
+Modifications copyright (c) 2024, MapTiler.com & OpenMapTiles contributors.
 All rights reserved.
 
 This document sets forth the licenses under which the design and code in this repository (collectively, the "Style") are made available.
